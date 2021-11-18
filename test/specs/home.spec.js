@@ -2,7 +2,7 @@ import ally from '../helper/a11y'
 import HomePage from '../pages/homePage'
 
 
-describe("Home Page Accessibilty Test", () => {
+describe("Home Page A11Y Test", () => {
 
     before(() => {
         HomePage.open()
