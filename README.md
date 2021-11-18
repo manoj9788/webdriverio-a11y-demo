@@ -12,6 +12,8 @@ Step 3: Execute tests `npm test`
 
 Step 4: _(optional: The base url of your application can be changes from the env file)_
 
+Step 5: _(optional: Make necessary modification for Github Actions yml file)_
+
 ## Accessibility Rule
 
 You could change audit rules as per your requirement like, WCAG or Section 508, add tags in the below function, which can be found in helper class,
